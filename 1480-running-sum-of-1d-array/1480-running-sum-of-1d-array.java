@@ -6,6 +6,7 @@ class Solution {
             nums[i] = runningsum + nums[i];
             
             runningsum = nums[i];
+            //nums[i] += nums[i-1];
         }
         return nums;
         
