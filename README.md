@@ -1,5 +1,6 @@
 # LeetCodePracc
-Practicing LeetCode Problems &amp; posting the solutions to my github
+Practicing LeetCode Problems &amp; posting the solutions to my github.
+
 Leetcode Notion Notes here on my Notion Database [here].  
 
 
