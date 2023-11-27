@@ -10,14 +10,16 @@ class Solution {
         return sum;
     }
     
-        int getBitCount (int num){
-            int bitCount = 0; 
-            while (num > 0){
-                if (num % 2 == 1){
-                    bitCount++;
-                }
-                num = num >> 1;
+    int getBitCount (int num){
+        int bitCount = 0; 
+        while (num > 0){
+              // lets check for LSB 
+            if (num % 2 == 1){
+                bitCount++;
             }
-            return bitCount;
+            // After right shift: 0000 0100, which is 4 in decimal
+            num = num >> 1;
+        }
+        return bitCount;
     }
 }
