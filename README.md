@@ -1,7 +1,7 @@
 # LeetCodePracc
 Practicing LeetCode Problems &amp; posting the solutions to my github.
 
-Leetcode Notion Notes here on my Notion Database [here].  
+Leetcode Notion Notes for some questions are here on my Notion Database [here].  
 
 
 
