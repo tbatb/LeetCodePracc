@@ -7,6 +7,7 @@ Practicing LeetCode Problems &amp; posting the solutions to my github.
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/tbatb/LeetCodePracc/tree/master/0015-3sum) |
 | [0344-reverse-string](https://github.com/tbatb/LeetCodePracc/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -16,8 +17,13 @@ Practicing LeetCode Problems &amp; posting the solutions to my github.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tbatb/LeetCodePracc/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/tbatb/LeetCodePracc/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tbatb/LeetCodePracc/tree/master/0001-two-sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/tbatb/LeetCodePracc/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
