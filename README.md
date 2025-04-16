@@ -9,6 +9,7 @@ Practicing LeetCode Problems &amp; posting the solutions to my github.
 | ------- |
 | [0015-3sum](https://github.com/tbatb/LeetCodePracc/tree/master/0015-3sum) |
 | [0344-reverse-string](https://github.com/tbatb/LeetCodePracc/tree/master/0344-reverse-string) |
+| [1019-squares-of-a-sorted-array](https://github.com/tbatb/LeetCodePracc/tree/master/1019-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -18,6 +19,7 @@ Practicing LeetCode Problems &amp; posting the solutions to my github.
 | ------- |
 | [0001-two-sum](https://github.com/tbatb/LeetCodePracc/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/tbatb/LeetCodePracc/tree/master/0015-3sum) |
+| [1019-squares-of-a-sorted-array](https://github.com/tbatb/LeetCodePracc/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,4 +28,5 @@ Practicing LeetCode Problems &amp; posting the solutions to my github.
 |  |
 | ------- |
 | [0015-3sum](https://github.com/tbatb/LeetCodePracc/tree/master/0015-3sum) |
+| [1019-squares-of-a-sorted-array](https://github.com/tbatb/LeetCodePracc/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
